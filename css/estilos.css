@@ -1,0 +1,82 @@
+
+
+p, span  {
+    color:black;
+    width: 600px;
+        }
+
+ ul {list-style-type: square; 
+    color: black;
+
+}
+pre {
+      color: black;
+      width: 300px;
+      font-family: 'Roboto slab', serif;    
+    }
+
+
+/* Esto es un comentario de CSS
+*/
+h1 {
+    text-align: center; 
+    width: 1200px;  
+    font-family: 'Merriweather', serif;
+    border: 1px solid black;
+    /*padding: 5px;*/
+    margin: 30px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 50px 50px 50px 50px;
+    font-weight: bold;
+    color: black;
+    background-color: khaki;
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  #mi_parrafo {
+    color: darkorange;
+    font-size: 23px;
+    border: 1px solid green;
+  }
+
+  .ejemplo {
+    font-weight: bold;
+    color: darkorchid;
+  }
+
+ /* section h1 {
+    font-weight: 400;
+  }*/
+
+
+body {
+  background-color:white ;
+}
+
+#demo {
+  color: red
+}
+
+h2 {
+  width: 1200px;
+  text-align: center;
+  margin: 30px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 50px 50px 50px 50px;
+  font-weight: bold;
+  background-color: khaki;
+  font-family: 'Merriweather', serif;
+  border: 1px solid black;
+}
